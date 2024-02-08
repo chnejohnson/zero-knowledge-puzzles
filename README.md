@@ -46,7 +46,15 @@ Write your solution .
 Then run the following command
 
 ```
-yarn test ./test/<TestName>.js
+npm run test ./test/<TestName>.js
+```
+
+
+>Be aware it is possible to pass the tests with underconstrained circuits, as testing for underconstraint is extremely difficult to do in general. At the very least, you should check the number of constraints generated and make sure the number makes sense.
+https://www.rareskills.io/post/circom-tutorial
+
+```
+circom <folder>/<name>.circom --r1cs
 ```
 
 ## Suggested Order for the Puzzles.
