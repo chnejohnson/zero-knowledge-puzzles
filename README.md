@@ -59,18 +59,18 @@ circom <folder>/<name>.circom --r1cs
 
 ## Suggested Order for the Puzzles.
 
-- [Addition](https://github.com/RareSkills/zero-knowledge-puzzles/tree/main/Addition)
-- [Equality](https://github.com/RareSkills/zero-knowledge-puzzles/tree/main/Equality)
-- [NotEqual](https://github.com/RareSkills/zero-knowledge-puzzles/tree/main/NotEqual)
-- [Poseidon](https://github.com/RareSkills/zero-knowledge-puzzles/tree/main/Poseidon)
-- [ForLoop](https://github.com/RareSkills/zero-knowledge-puzzles/tree/main/ForLoop)
-- [Power](https://github.com/RareSkills/zero-knowledge-puzzles/tree/main/Power)
-- [Range](https://github.com/RareSkills/zero-knowledge-puzzles/tree/main/Range)
-- [Salt](https://github.com/RareSkills/zero-knowledge-puzzles/tree/main/Salt)
-- [QuadraticEquation](https://github.com/RareSkills/zero-knowledge-puzzles/tree/main/QuadraticEquation)
-- [Compile](https://github.com/RareSkills/zero-knowledge-puzzles/tree/main/Compile)
-- [Sudoku](https://github.com/RareSkills/zero-knowledge-puzzles/tree/main/Sudoku)
-- [Sujiko](https://github.com/RareSkills/zero-knowledge-puzzles/tree/main/Sujiko)
+- [x] [Addition](https://github.com/RareSkills/zero-knowledge-puzzles/tree/main/Addition)
+- [x] [Equality](https://github.com/RareSkills/zero-knowledge-puzzles/tree/main/Equality)
+- [x] [NotEqual](https://github.com/RareSkills/zero-knowledge-puzzles/tree/main/NotEqual)
+- [x] [Poseidon](https://github.com/RareSkills/zero-knowledge-puzzles/tree/main/Poseidon)
+- [x] [ForLoop](https://github.com/RareSkills/zero-knowledge-puzzles/tree/main/ForLoop)
+- [ ] [Power](https://github.com/RareSkills/zero-knowledge-puzzles/tree/main/Power)
+- [ ] [Range](https://github.com/RareSkills/zero-knowledge-puzzles/tree/main/Range)
+- [ ] [Salt](https://github.com/RareSkills/zero-knowledge-puzzles/tree/main/Salt)
+- [ ] [QuadraticEquation](https://github.com/RareSkills/zero-knowledge-puzzles/tree/main/QuadraticEquation)
+- [ ] [Compile](https://github.com/RareSkills/zero-knowledge-puzzles/tree/main/Compile)
+- [ ] [Sudoku](https://github.com/RareSkills/zero-knowledge-puzzles/tree/main/Sudoku)
+- [ ] [Sujiko](https://github.com/RareSkills/zero-knowledge-puzzles/tree/main/Sujiko)
 
 ## Relevant links 
 
